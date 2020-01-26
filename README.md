@@ -3,6 +3,7 @@ Epidemiological and demographic data of confirmed cases in the 2019-nCoV outbrea
 The link of data is here: https://docs.google.com/spreadsheets/d/1itaohdPiAeniCXNlntNztZ_oRvjh0HsGuJXUJWET008/edit?ts=5e2980cb&pli=1#gid=0 (last updated: 7:00 am, 27th January 2020 Beijing time).
 ## Specific Contributors
 (the order is alphabetical of last name, not indicative of personal contribution)
+
 Name | Email | Twitter | Github
 -----|-------|---------|-------
 Bernardo Gutierrez | bernardo.gutierrez@zoo.ox.ac.uk | @B_Gutierrez_G |
@@ -13,5 +14,5 @@ Sumiko Mekaru | srmekaru@gmail.com | @Sumiko_Mekaru |
 David Pigott | pigottdm@uw.edu | @davidmpigott |
 Sam Scarpino | s.scarpino@northeastern.edu | @svscarpino |
 Kara Sewalk | Kara.Sewalk@childrens.harvard.edu | @kara_sewalk |
-Jessie Wu | chiehhsi.wu@gmail.com | | @jessiewu |
-Bo Xu | xu-b15@mails.tsinghua.edu.cn  | @BoXu55686629 | @BoXu123 |
+Jessie Wu | chiehhsi.wu@gmail.com | | @jessiewu
+Bo Xu | xu-b15@mails.tsinghua.edu.cn  | @BoXu55686629 |
