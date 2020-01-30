@@ -1,6 +1,6 @@
 # 2019-nCoV-epiData
 Epidemiological and demographic data of confirmed cases in the 2019-nCoV outbreak, based on public news.
-The link of data is here: https://docs.google.com/spreadsheets/d/1itaohdPiAeniCXNlntNztZ_oRvjh0HsGuJXUJWET008/edit?ts=5e2980cb&pli=1#gid=0 (last updated: 2:00 am, 30th January 2020 Beijing time).
+The link of data is here: https://docs.google.com/spreadsheets/d/1itaohdPiAeniCXNlntNztZ_oRvjh0HsGuJXUJWET008/edit?ts=5e2980cb&pli=1#gid=0 (last updated: 3:00 am, 31th January 2020 Beijing time).
 ## Specific Contributors
 (the order is alphabetical of last name, not indicative of personal contribution)
 
